@@ -1,0 +1,14 @@
+c:\g\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe.config
+c:\g\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe
+c:\g\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.pdb
+c:\g\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csprojResolveAssemblyReference.cache
+c:\g\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.g.cs
+c:\g\WpfTreeView\WpfTreeView\obj\Debug\App.g.cs
+c:\g\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+c:\g\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+c:\g\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.baml
+c:\g\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.g.resources
+c:\g\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+c:\g\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.Cache
+c:\g\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.exe
+c:\g\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.pdb
